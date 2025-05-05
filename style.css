@@ -4563,3 +4563,23 @@ a:hover img.portfolio-logo-img {
   /* Style links consistently if needed */
   font-size: 0.875rem;
 }
+
+.project-image {
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+  object-fit: cover;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
+}
+
+.project-card:hover .project-image {
+  transform: scale(1.05);
+}
+
+.project-card-image {
+  width: 100%;
+  overflow: hidden;
+  border-radius: 8px 8px 0 0;
+  margin-bottom: 1rem;
+}
