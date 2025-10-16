@@ -10,6 +10,52 @@
     <link href="style.css" rel="stylesheet">
     <!-- <link rel="icon" type="image/svg+xml" href="/images/favicon.svg"> -->
     <meta name="facebook-domain-verification" content="rsz4mxy3fzu2k66md14vetst08ncok" />
+    <!-- WhatsApp Button Style -->
+    <style>
+        .whatsapp-fab {
+            position: fixed;
+            width: 60px;
+            height: 60px;
+            bottom: 40px;
+            right: 40px;
+            background-color: #25D366;
+            color: #FFF;
+            border-radius: 50%;
+            text-align: center;
+            box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+            z-index: 1000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: transform 0.3s ease-in-out;
+            text-decoration: none; /* remove underline from link */
+        }
+    
+        .whatsapp-fab:hover {
+            transform: scale(1.1);
+            color: #FFF; /* Ensure color doesn't change on hover */
+        }
+
+        .whatsapp-fab svg {
+            width: 32px;
+            height: 32px;
+            fill: currentColor;
+        }
+
+        /* Responsive adjustment for smaller screens */
+        @media (max-width: 768px) {
+            .whatsapp-fab {
+                width: 50px;
+                height: 50px;
+                bottom: 20px;
+                right: 20px;
+            }
+            .whatsapp-fab svg {
+                width: 28px;
+                height: 28px;
+            }
+        }
+    </style>
 </head>
 
 <body class="c54cm ctzj3 cp877 cbh0c c9xyi">
@@ -467,6 +513,13 @@
         </footer>
 
     </div>
+
+    <!-- WhatsApp Floating Action Button -->
+    <a href="https://api.whatsapp.com/send/?phone=201288600785" class="whatsapp-fab" target="_blank" rel="noopener noreferrer" aria-label="Chat on WhatsApp">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+            <path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.8 0-67.6-9.5-97.8-26.7l-7-4.1-72.5 19.1 19.4-70.8-4.4-7.3C49.4 306.3 32 265.3 32 223.9c0-105.9 86.1-192 192-192s192 86.1 192 192-86.1 192-192 192zm83.8-118.3c-4.9-2.4-28.9-14.3-33.4-15.9-4.5-1.6-7.8-2.4-11.1 2.4-3.3 4.8-12.6 15.9-15.5 19.1-2.9 3.2-5.8 3.6-10.7 1.2-4.9-2.4-20.8-7.7-39.6-24.4-14.6-12.9-24.6-28.8-27.5-33.9-2.9-5.1-.3-7.8 2.1-10.2 2.2-2.1 4.8-5.6 7.2-8.3 2.4-2.8 3.2-4.8 4.8-8.1 1.6-3.2.8-5.9- .4-8.3-1.2-2.4-11.1-26.5-15.2-36.1-4.1-9.6-8.2-8.3-11.3-8.5-3.1-.2-6.5-.2-9.8-.2-3.3 0-8.7 1.2-13.2 5.9-4.5 4.7-17.3 16.9-17.3 41.2 0 24.3 17.7 47.8 20.1 51.1 2.4 3.2 34.6 52.8 83.8 73.2 12.3 5.1 22.4 8.1 30.1 10.5 15.2 4.9 29.1 4.2 39.6 2.5 11.6-1.9 28.9-11.8 33-23.1 4.1-11.3 4.1-20.8 2.9-23.1-1.2-2.4-4.5-3.9-9.4-6.3z"/>
+        </svg>
+    </a>
 
     <script src="js/vendors/alpinejs.min.js" defer></script>
     <script src="js/vendors/aos.js"></script>
