@@ -1,0 +1,187 @@
+{
+  "nav": {
+    "home": "Home",
+    "expertise": "Expertise",
+    "experience": "Experience",
+    "projects": "Projects",
+    "blog": "Blog"
+  },
+  "hero": {
+    "available": "Available",
+    "open_for_opportunities": "Open for new opportunities & projects",
+    "headline_1": "Building Scalable",
+    "headline_2": "Digital Systems",
+    "description_prefix": "I am",
+    "description_suffix": "I engineer robust backend architectures, seamless APIs, and automated workflows to turn complex logic into elegant solutions.",
+    "view_projects": "View Projects",
+    "github_profile": "GitHub Profile",
+    "core_technologies": "Core Technologies & Tools"
+  },
+  "stats": {
+    "technical_proficiency": "Technical Proficiency",
+    "impact": "Impact.",
+    "impact_desc": "Engineering reliable systems with modern standards.",
+    "gpa_label": "GPA",
+    "graduated_with": "Graduated with",
+    "honors": "Excellent Honors",
+    "university": "from Helwan University (CS & AI).",
+    "backend_specialist": "Backend Specialist",
+    "full_stack": "Full Stack",
+    "clean_code": "Clean Code & SOLID Principles",
+    "laravel_expert": "Laravel Expert",
+    "advanced_architecture": "Advanced Architecture",
+    "optimized_apis": "Optimized APIs reducing server load and improving response times.",
+    "automating_workflows": "Automating workflows with Python & AI Agents.",
+    "secure_systems": "Secure Systems",
+    "payment_integration": "Payment Integration",
+    "devops": "DevOps",
+    "docker_cicd": "Docker & CI/CD",
+    "available_for_hire": "Available for hire"
+  },
+  "experience": {
+    "title": "Experience",
+    "download_cv": "Download CV",
+    "need_solution": "Need a scalable backend solution? I can help design your system.",
+    "book_call": "Book Intro Call",
+    "send_email": "Send Email",
+    "whatsapp": "WhatsApp"
+  },
+  "projects": {
+    "featured_work": "Featured Work",
+    "headline": "Engineering Systems.",
+    "description": "Key projects demonstrating full-stack capabilities, complex business logic handling, and automation.",
+    "view_demo": "View Demo",
+    "github": "GitHub"
+  },
+  "footer": {
+    "ready_to_build": "Ready to build",
+    "something_extraordinary": "something extraordinary?",
+    "get_started": "Get Started",
+    "schedule_call": "Schedule a Call",
+    "book_meeting": "Book a Meeting",
+    "follow_along": "Follow Along",
+    "explore": "Explore",
+    "crafted_with_care": "Crafted with care in Egypt"
+  },
+  "personal_info": {
+    "name": "Andrew Atef",
+    "title": "Backend PHP Developer (Laravel Specialist)",
+    "subtitle": "Full Stack Developer | AI & Automation Enthusiast",
+    "location": "123 Main St, Cairo, Egypt (11511)"
+  },
+  "education_list": [
+    {
+      "school": "Helwan University",
+      "degree": "B.Sc. Computer Science and AI",
+      "period": "Sep 2021 – Jun 2025",
+      "grade": "GPA: 3.48/4.0 (Excellent with Honors)"
+    },
+    {
+      "school": "Digital Egypt Pioneers Initiative (DEPI)",
+      "degree": "Full Stack Web Developer (.NET Track)",
+      "period": "Oct 2024 – May 2025",
+      "details": "Foundation in C#, ASP.NET Core, Entity Framework."
+    }
+  ],
+  "experience_list": [
+    {
+      "company": "Kemet Technology",
+      "role": "Backend Developer",
+      "period": "Jan 2025 – Aug 2025",
+      "type": "Cairo",
+      "description": [
+        "Developed and maintained backend systems using Laravel for web and mobile apps.",
+        "Designed and implemented robust RESTful APIs.",
+        "Implemented WebSockets for real-time notifications.",
+        "Managed cloud infrastructure on Digital Ocean (Server Setup & Deployment)."
+      ]
+    },
+    {
+      "company": "Nplanet, Inc",
+      "role": "Backend Developer Intern",
+      "period": "Jun 2023 – Sep 2023",
+      "type": "Alexandria",
+      "description": [
+        "Collaborated on the company's API framework development.",
+        "Coordinated with Frontend developers for seamless integration.",
+        "Participated in Code Reviews and applied best practices."
+      ]
+    },
+    {
+      "company": "Freelance",
+      "role": "Full-Stack Developer",
+      "period": "Ongoing",
+      "type": "Remote",
+      "description": [
+        "Building complete systems from scratch focusing on engineering solutions.",
+        "Developing E-commerce platforms and LMS systems.",
+        "Integrating payment gateways (Paymob, Fawry) and 3rd party APIs."
+      ]
+    }
+  ],
+  "blog": {
+    "section_title": "Recent Articles",
+    "view_all": "View all",
+    "read_more": "Read more",
+    "back_to_home": "Back to Home",
+    "minutes_read": "min read",
+    "published_on": "Published on",
+    "author": "About the Author",
+    "chat_whatsapp": "Chat on WhatsApp"
+  },
+  "blog_articles": [
+    {
+      "title": "\"What is the Best Payment Gateway in Egypt?\" – The Ultimate Guide",
+      "description": "A comprehensive comparison between Paymob, Kashier, and Fawry Pay to help you choose the right payment gateway for your business in Egypt.",
+      "category": "Payment Gateways",
+      "content": "If you have an online business in Egypt, you've certainly reached the chronic headache stage of: \"Who should I integrate with to receive my money?\". It's confusing; every day there is a new company, and everyone claims to be the best.\n\nIn this article, I will give you the complete summary. We will analyze the most famous payment gateways in Egypt in detail, and I will tell you exactly who to choose based on the size of your work, so that after reading this article, you won't be confused again.\n\n**Step One: Defining Your Business Identity (Individual or Company?)**\nBefore anything else, we must be clear. Are you just starting out and working as an \"Individual\" (with your national ID), or are you a registered \"Company\" with a commercial register and tax card? This answer will determine the path you take.\n\n**First: Payment Gateways for Individuals (Freelancers and Startups)**\nIf you are just starting, you need an easy payment gateway that doesn't require a lot of paperwork and has reasonable fees. In this arena, there are two key players dominating the scene.\n\n**1. Paymob: The Stable Giant**\nThe Gist: This is arguably the most famous and oldest electronic payment gateway in Egypt. Most large companies trust it. Its reputation for stability and security is excellent, making it a very safe choice for anyone.\n\nPros:\n- All payment methods: They accept Visa, Mastercard, mobile wallets (Vodafone Cash, Orange Money, etc.), and even installments through many banks. This is their biggest competitive advantage.\n- Ease of Registration: As an individual, all you need is a copy of your ID and a bank account to start.\n- Strong Technical Support: They have a large and organized support team, which is crucial if you face any issues.\n\nCons:\n- Weekly Settlement: Transferring money to your bank account happens once a week.\n- Minimum Withdrawal Limit: There is a minimum amount you can withdraw (it was 5000 EGP, this number may change).\n\nDetailed Pricing (Standard Plan):\n- Setup or Monthly Fees: None.\n- Commission: 2.75% + 3 EGP on every card payment transaction.\n\nFor whom? For those who want to start right with a big, trusted name, and don't mind paying slightly higher fees in exchange for stability and the variety of payment methods offered to customers.\n\n**2. Kashier: The Fast and Easy Competitor**\nThe Gist: Kashier entered the market strongly, focusing on ease and speed. It is excellent for people selling on social media or who don't want technical complexities.\n\nPros:\n- Incredible Ease: Registration is very easy, and their most important feature is \"Payment Links\" which you can generate and send to any client without even having a website.\n- Good Wallet Support: They accept most popular electronic wallets.\n- No Minimum Withdrawal: A very strong feature for small projects.\n\nCons:\n- Commission: Very close to Paymob.\n- Brand Name: Still not as famous as Paymob among a large segment of customers.\n\nDetailed Pricing:\n- Setup or Monthly Fees: None.\n- Commission: 2.75% + 3 EGP on every transaction.\n\nFor whom? For the person selling on Facebook or Instagram who wants the easiest and fastest way to send a link to a client to pay, without needing technical complexities.\n\n**Second: Payment Gateways for Registered Companies**\nIf your business has grown and you are a registered company, the options increase, and the features evolve.\n\nSurprise: Paymob and Kashier work with companies too! It is important to know that Paymob and Kashier are not just for individuals. They have pricing plans and packages specifically for large companies (Enterprise), with lower commissions and additional features. So if you started with them as an individual and your business grew, you can easily upgrade your account to a company account and continue with them.\n\nBut here, a very heavy player enters the market specifically for companies.\n\n**Fawry Pay: A Name That Means Trust**\nThe Gist: Fawry is not just a payment gateway; it is a complete payment network and ecosystem in Egypt. When a customer sees the \"Fawry\" logo on your site, they trust you immediately because it is a name they know and deal with every day.\n\nPros:\n- Trust and Credibility: The biggest name in the Egyptian payments market without dispute.\n- Cash Payment: This is the killer feature no one else has with the same strength. The customer can choose \"Pay via Fawry\" and receive a code to go pay \"Cash\" at any kiosk or supermarket with a Fawry machine. This opens up a huge segment of customers who do not have Visa cards.\n- Integrated Services for Companies: They have advanced solutions like recurring invoices (for subscriptions), installment systems, and payroll services.\n\nCons:\n- Companies Only: You must have a commercial register and tax card.\n- Setup and Monthly Fees: Unlike competitors, there are fees you pay even if you don't make a single sale.\n\nDetailed Pricing (Startup Plan for Small Businesses):\n- Setup Fees: 999 EGP (paid once).\n- Monthly Fees: 499 EGP (monthly minimum; if your commission in a month is less than this amount, you pay it).\n- Card Payment Commission: 2.75% + 3 EGP.\n- Wallet Payment Commission (QR Code): 1.5% (cheaper than cards).\n\nFor whom? For companies and stores with large sales volumes that can bear fixed costs, and companies wanting to reach the customer segment that prefers cash payments.\n\n**Final Conclusion: Who Should I Choose?**\n- Just starting (Individual) and need all possible payment methods? Start with **Paymob**.\n- Working on Social Media (Individual) and want the fastest, simplest solution? **Kashier** will be an excellent choice.\n- Became a company with large sales volume, and want to reach customers who pay cash? Then you must go to **Fawry Pay**.\n\nIn the end, there is no such thing as the \"best payment gateway\" absolutely; there is only the \"most suitable payment gateway for you right now\". Start with what fits your current size, and when you grow, you can easily change or add another payment gateway.\n\n**Need Help with Implementation? Let's Talk!**\nAfter knowing the difference between payment gateways, the next step is technical implementation and linking this gateway to your website or e-commerce store. If this isn't done correctly, it can cause many problems and lose you sales.\n\nI am Andrew Atef, a freelance developer specializing in building e-commerce stores and integrating them with these payment gateways professionally and securely. If you are still confused or want to know the next steps, I would be happy to offer you a free 15-minute consultation to discuss your project and see the best solution for you.\n\nSend me a message on WhatsApp now to schedule the call: Click here to contact me on WhatsApp"
+    }
+  ],
+  "projects_list": [
+    {
+      "title": "Learning Management System",
+      "description": "Developed advanced RESTful APIs and new features, honing skills in API design and database integration.",
+      "details": [
+        "API Design & Database Integration",
+        "UI Enhancements for Interactive Scenes",
+        "Full Native PHP Implementation"
+      ]
+    },
+    {
+      "title": "E-commerce & Affiliate System",
+      "description": "A robust e-commerce platform featuring product discounts, coupons, and a complete affiliate marketing system.",
+      "details": [
+        "Affiliate Marketing System",
+        "Coupon Generation Logic",
+        "Robust Database Design"
+      ]
+    },
+    {
+      "title": "Frontend Portfolio",
+      "description": "Bringing web ideas to life with a solid foundation in core frontend technologies and responsive design.",
+      "details": [
+        "Responsive UI Implementation",
+        "Git & GitHub Integration",
+        "Modern Frontend Practices"
+      ]
+    },
+    {
+      "title": "N8N Automation Dashboard UI",
+      "description": "A polished front-end UI for an automation tool to visually manage content workflows and AI integrations.",
+      "details": [
+        "Visual Workflow Management",
+        "RSS to AI Social Posting UI",
+        "Analytics Visualization"
+      ]
+    },
+    {
+      "title": "FoodTech Delivery Platform",
+      "description": "Backend architecture for a complete food delivery system with apps and dashboards.",
+      "details": [
+        "Customer & Driver App APIs",
+        "Live Order Tracking Support",
+        "Comprehensive Admin Dashboards"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://main.devawi.tech/</loc>
+    <lastmod>2025-11-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://main.devawi.tech/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://main.devawi.tech/?lang=ar" />
+  </url>
+
+  <!-- Blog Page -->
+  <url>
+    <loc>https://main.devawi.tech/blog</loc>
+    <lastmod>2025-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://main.devawi.tech/blog" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://main.devawi.tech/blog?lang=ar" />
+  </url>
+
+  <!-- Add blog article URLs here as they are created -->
+  <!-- Example:
+  <url>
+    <loc>https://main.devawi.tech/blog/article-slug</loc>
+    <lastmod>2025-11-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  -->
+
+</urlset>
