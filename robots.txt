@@ -1,0 +1,19 @@
+# Robots.txt for Andrew Atef Portfolio
+# https://main.devawi.tech
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://main.devawi.tech/sitemap.xml
+
+# Disallow sensitive files
+Disallow: /node_modules/
+Disallow: /.git/
+Disallow: /dist/
+Disallow: *.json$
+Disallow: *.ts$
+Disallow: *.tsx$
+
+# Crawl-delay for better server performance
+Crawl-delay: 1
